@@ -1,3 +1,22 @@
+# Reactjs Tarea libre
+
+## Objetivo
+Genera una aplicacion utilizando React.js
+https://react.dev/
+
+https://react.dev/learn/tutorial-tic-tac-toe
+
+https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks/
+
+reactjs.wiki
+
+## Resultados
+Link: No pude hacer deploy
+
+![image](https://github.com/guzhdz/Reactjs-Tarea-libre/assets/89165084/ada1715c-1eed-44f7-8af9-82ad25235f80)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
